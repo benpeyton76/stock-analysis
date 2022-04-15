@@ -1,10 +1,10 @@
 # Stock Analysis
 
-## ***Overview of the analysis:***
+## ***Overview:***
 
 In this challenge, we are using Visual Basic for Applications (VBA) to automate code so that Steve can research the stock market for his parents. They are interested in renewable energy and want to invest in companies that build green energy systems and components. Steve wants us to create code that, when run, will give him the total daily volume and annual return of the green energy companies. We will be refactoring code to loop through all given data and determining if refactoring makes the code more efficient.
 
-### ***Results***
+### ***Results:***
 
 In the original code, running code for 2017 took approximately 0.523 seconds.
 
